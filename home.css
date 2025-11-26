@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-select{
+    display: flex;
+}
+
+.navbar{
+    display: flex;
+    background-color: aqua;
+
+}
+
+.navbar li{
+    list-style-type: none;
+    overflow: hidden;
+    
+
+    
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    float: left;
+    display: flex;
+    
+
+
+    
+}
+.logo-img{
+    height: 400px;
+}
+
+.con-img-desc{
+    margin: 30px auto;
+    max-width: 900px;
+    justify-content: ;
+}
